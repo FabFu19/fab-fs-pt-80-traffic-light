@@ -1,6 +1,6 @@
 .container{
     width: 220px;
-    height: 500px;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,6 +22,12 @@
     height: 140px;
     border-radius: 100%;
     background-color: green;
+}
+.fourth-color-light{
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    background-color: purple;
 }
 .traffic-shadow{
     box-shadow: 0 0 50px #ccc ;
